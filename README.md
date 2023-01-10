@@ -1,5 +1,7 @@
 # To-Do-App
 
+To do application with flutter.
+
 ![Screenshot_1673300068](https://user-images.githubusercontent.com/62266472/211416431-c095d17e-f3b4-4584-8779-fc931557b0a4.png)
 
 ![Screenshot_1673300081](https://user-images.githubusercontent.com/62266472/211416438-78753450-5500-45da-bd49-8ac4bcb353d5.png)
